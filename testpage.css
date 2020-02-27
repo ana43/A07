@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    width: 560px;
+}
+
+h1{
+    margin: 0;
+    font-size: 180%;
+    color: black;
+}
